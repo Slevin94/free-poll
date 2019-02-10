@@ -1,0 +1,37 @@
+
+.same_line {
+    display: inline;
+}
+
+.center {
+    text-align: center;
+}
+
+.bigger_width {
+    width: 30%;
+}
+
+#addQuestionPopup {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    top: 20%;
+    background-color: aqua;
+    margin-top: 5px;
+    padding-left: 2%;
+    padding-right: 5%;
+    font-size: 250%;
+    box-shadow: 5px 10px 8px lightgray;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.question {
+    padding: 3px;
+}
+
+#submit {
+    margin: 5px;
+}
